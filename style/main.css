@@ -109,4 +109,5 @@ main {
   color: rgb(0, 0, 0);
   border-radius: 3px;
   box-shadow: 2px 2px 4px grey;
+  pointer-events: none;
 }
